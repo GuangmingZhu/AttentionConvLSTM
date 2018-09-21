@@ -1,7 +1,7 @@
 # AttentionConvLSTM
 ## Prerequisites
 1) Tensorflow-1.2 <br/>
-#### The files about the proposed balanced squared hinge loss function is in the dir tfkeras, replace the original files in contrib/keras/python/keras/ of TF-1.2 with the files in the dir tfkeras. <br/> <br/>
+2) The implementation files of the variants of ConvLSTM are in the local dir "patchs". You need merge them with the corresponding files of TF-1.2. <br/> <br/>
    
 ## Get the pretrained models
 The trained models can be obtained from the below link:  <br/>

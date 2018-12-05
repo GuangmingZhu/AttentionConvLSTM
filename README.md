@@ -1,7 +1,8 @@
 # AttentionConvLSTM
 ## Prerequisites
-1) Tensorflow-1.2 <br/>
-2) The implementation files of the variants of ConvLSTM are in the local dir "patchs". You need merge them with the corresponding files of TF-1.2. <br/> <br/>
+1) Python 2.7
+2) Tensorflow-1.2 <br/>
+3) The implementation files of the variants of ConvLSTM are in the local dir "patchs". You need merge them with the corresponding files of TF-1.2. <br/> <br/>
    
 ## Get the pretrained models
 The trained models can be obtained from the below link:  <br/>

@@ -19,8 +19,9 @@ The trained models can be obtained from the below link:  <br/>
 
 ## Citation
 Please cite the following paper if you feel this repository useful. <br/>
-http://ieeexplore.ieee.org/abstract/document/7880648/
+http://papers.nips.cc/paper/7465-attention-in-convolutional-lstm-for-gesture-recognition
 http://openaccess.thecvf.com/content_ICCV_2017_workshops/w44/html/Zhang_Learning_Spatiotemporal_Features_ICCV_2017_paper.html
+http://ieeexplore.ieee.org/abstract/document/7880648/
 ```
 @article{ZhuNIPS2018,
   title={Attention in Convolutional LSTM for Gesture Recognition},
